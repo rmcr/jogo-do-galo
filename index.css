@@ -1,0 +1,11 @@
+html, body{height: 100%;} 
+
+main{height: 100%; display: flex; align-items: center; justify-content: center; }
+
+tr{background-color: black; padding: 60px;}
+
+td{width: 70px; height: 70px; }
+
+td.azul{background-color: blue;}
+
+td.amarelo{background-color: yellow;}
