@@ -4,6 +4,7 @@ var jogador="azul";
 
 var azul="azul";
 
+
 var amarelo="amarelo";
 
 function teste(celula){
